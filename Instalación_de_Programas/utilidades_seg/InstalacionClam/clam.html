@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UFT-8">
+	<title>APANTALLADOS</title>
+	<link rel="shortcut icon" href="../../../images/favicon.png">
+	<link rel="stylesheet" href="../../../css/estilo1.css">
+</head>
+<body>
+	<header class="header">
+		<div class="container">
+		<div class="btn-menu">
+			<label for="btn-menu">☰</label>
+		</div>
+			<div class="logo">
+				<h1>APANTALLADOS</h1>
+			</div>
+			<nav class="menu">
+				<a href="../../../index.html">Inicio</a>
+				<a href="https://www.instagram.com/davidls_2025/" target="_blank">Contacto</a>
+			</nav>
+		</div>
+	</header>
+	<div class="capa"></div>
+
+<!-- Menu lateral --------->
+<input type="checkbox" id="btn-menu">
+<div class="container-menu">
+	<div class="cont-menu">
+		<nav>
+      <a href="../s_ofimatico.html">Software ofimático</a>
+      <a href="../../s_rec_man/s_rec_man.html">Software de recuperación y Mantenimiento</a>
+      <a href="../../utilidades_seg/utilidades_seg.html">Utilidades de seguridad</a>
+      <a href="../../a_portables/a_portables.html">Aplicaciones portables</a>
+		</nav>
+		<label for="btn-menu">✖️</label>
+	</div>
+</div>
+
+<!-- Contenido --------->
+<h1 align="center"style="color:white;transform:translateY(100%);font-size:50px;">ClamTK</h1>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("article").hide()
+  $("#menu_opcion1").click(function(){
+    $("article").hide()
+    $("#opcion1").show();
+  });
+  $("#menu_opcion2").click(function(){
+    $("article").hide()
+    $("#opcion2").show();
+  });
+  $("#menu_opcion3").click(function(){
+    $("article").hide()
+    $("#opcion3").show();
+  })
+  ;$("#menu_opcion4").click(function(){
+    $("article").hide()
+    $("#opcion4").show();
+  });
+  $("#menu_opcion5").click(function(){
+    $("article").hide()
+    $("#opcion5").show();
+  });
+  $("#menu_opcion6").click(function(){
+    $("article").hide()
+    $("#opcion6").show();
+  });
+});
+</script>
+<table>
+  <tr>
+    <td>
+<section id="section2">
+  <article id="opcion1">
+    <iframe  style="width:100%; border:none; height:500px"src="clamIntro.html"></iframe>
+  </article>
+  <article id="opcion2">
+    <iframe  style="width:100%; border:none; height:500px"src="clam1.html"></iframe>
+  </article>
+  <article id="opcion3">
+    <iframe style="width:100%; border: none; height:500px"src="clam2.html"></iframe>
+  </article>
+  <article id="opcion4">
+    <iframe style="width:100%; border: none; height:500px"src="clam3.html"></iframe>
+  </article>
+  <article id="opcion5">
+    <iframe style="width:100%; border: none; height:500px"src="clam4.html"></iframe>
+  </article>
+  <nav id="nav2">
+    <ul id="ul2">
+      <li id="menu_opcion1"><a href="#opcion1">Introducción</a></li>
+      <li id="menu_opcion2"><a href="#opcion2">Paso 1</a></li>
+      <li id="menu_opcion3"><a href="#opcion3">Paso 2</a></li>
+      <li id="menu_opcion4"><a href="#opcion4">Paso 3</a></li>
+      <li id="menu_opcion5"><a href="#opcion5">Paso 4</a></li>
+      <li id="menu_opcion6"><a href="../utilidades_seg.html">Atrás</a></li>
+    </ul>
+  </nav>
+</section>
+   	</td>
+  </tr>
+</table>
+</body>
+</html>
