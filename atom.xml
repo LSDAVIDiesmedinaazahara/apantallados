@@ -1,0 +1,56 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://lsdavidiesmedinaazahara.github.io/apantallados/">
+<id>https://lsdavidiesmedinaazahara.github.io/apantallados/</id>
+<title>APANTALLADOS</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://lsdavidiesmedinaazahara.github.io/apantallados/atom.xml"/>
+<author>
+<name>David Lora Salido</name>
+<email>losada_aliesma20@iesmedinaazahara.es</email>
+</author>
+<category term="Software Ofimatico"/>
+<logo>/images/.jpg</logo>
+<entry>
+<id>https://lsdavidiesmedinaazahara.github.io/apantallados/</id>
+<title>Software Ofimatico</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>David Lora Salido</name>
+<email>losada_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Articulo sobre como instalar Software Ofimatico</summary>
+<link rel="alternate" href="https://lsdavidiesmedinaazahara.github.io/apantallados/Instalaci%C3%B3n_de_Programas/s_ofimatico/s_ofimatico.html"/>
+</entry>
+<entry>
+<id>https://lsdavidiesmedinaazahara.github.io/apantallados/</id>
+<title>Software de Recuperación y Mantenimiento</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>David Lora Salido</name>
+<email>losada_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Articulo sobre como instalar Software de Recuperación y Mantenimiento</summary>
+<link rel="alternate" href="https://lsdavidiesmedinaazahara.github.io/apantallados/Instalaci%C3%B3n_de_Programas/s_rec_man/s_rec_man.html"/>
+</entry>
+<entry>
+<id>https://lsdavidiesmedinaazahara.github.io/apantallados/</id>
+<title>Software Antivirus</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>David Lora Salido</name>
+<email>losada_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Articulo sobre como instalar Software Antivirus</summary>
+<link rel="alternate" href="https://lsdavidiesmedinaazahara.github.io/apantallados/Instalaci%C3%B3n_de_Programas/utilidades_seg/utilidades_seg.html"/>
+</entry>
+<entry>
+<id>https://lsdavidiesmedinaazahara.github.io/apantallados/</id>
+<title>Aplicaciones Portables</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>David Lora Salido</name>
+<email>losada_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Articulo sobre como instalar Aplicaciones Portables</summary>
+<link rel="alternate" href="https://lsdavidiesmedinaazahara.github.io/apantallados/Instalaci%C3%B3n_de_Programas/a_portables/a_portables.html"/>
+</entry>
+</feed>
