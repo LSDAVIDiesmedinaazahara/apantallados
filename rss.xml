@@ -1,0 +1,46 @@
+<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>APANTALLADOS💻</title>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/index.html</link>
+<description> Instalación de programas informaticos</description>
+<category>software/instalación/ordenadores</category>
+<copyright>1º ASIR - LMSGI</copyright>
+<image>
+<url>https://estherostos.github.io/proyectofhw/viajes.jpg</url>
+<title>Viajes y más</title>
+<link>https://estherostos.github.io/proyectofhw</link>
+<width>30</width>
+<height>30</height>
+</image>
+<language>es-es</language>
+<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+<webMaster>i42osose@gmail.com</webMaster>
+<!--  Noticias del canal  -->
+<item>
+<title>Software Ofimatico</title>
+<description></description>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_ofimatico/s_ofimatico.html</link>
+<author>losada_aliesma20@iesmedinaazahara.es</author>
+<category>Ofimatico</category>
+<enclosure url="https://youtu.be/VupykmeN-xM" type="video" length="32572719"/>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+<item>
+<title>Software de Recuperación y Mantenimiento</title>
+<description></description>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalaci%C3%B3n_de_Programas/utilidades_seg/utilidades_seg.html</link>
+<author>losada_aliesma20@iesmedinaazahara.es</author>
+<category>Software Antivirus</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+<item>
+<title>Aplicaciones Portables</title>
+<description>En este artículo encontrará información sobre París</description>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/a_portables/a_portables.html</link>
+<author>losada_aliesma20@iesmedinaazahara.es</author>
+<category>Portables</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+</channel>
+</rss>
