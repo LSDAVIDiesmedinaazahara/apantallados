@@ -17,19 +17,31 @@
 <lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
 <webMaster>i42osose@gmail.com</webMaster>
 <!--  Noticias del canal  -->
+
+
+
+
+
 <item>
 <title>Software Ofimatico</title>
 <description></description>
 <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_ofimatico/s_ofimatico.html</link>
 <author>losada_aliesma20@iesmedinaazahara.es</author>
 <category>Ofimatico</category>
-<enclosure url="https://youtu.be/VupykmeN-xM" type="video" length="32572719"/>
 <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 <item>
 <title>Software de Recuperación y Mantenimiento</title>
 <description></description>
-<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalaci%C3%B3n_de_Programas/utilidades_seg/utilidades_seg.html</link>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_rec_man/s_rec_man.html</link>
+<author>losada_aliesma20@iesmedinaazahara.es</author>
+<category>Recuperación y Mantenimiento</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+<item>
+<title>Software Antivirus</title>
+<description></description>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/utilidades_seg/utilidades_seg.html</link>
 <author>losada_aliesma20@iesmedinaazahara.es</author>
 <category>Software Antivirus</category>
 <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
