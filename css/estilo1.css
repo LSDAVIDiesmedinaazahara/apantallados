@@ -208,4 +208,6 @@ article {
 	position: relative;
 	top: 40px;
 	z-index: -1;
+	display: flex;
+  	justify-content: center;
 }
