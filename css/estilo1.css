@@ -211,3 +211,21 @@ article {
 	display: flex;
   	justify-content: center;
 }
+
+
+/* TAREAS DE CLONECILLA */
+.celdaHover{
+	color: rgba(86, 86, 86, 1);
+	background-color: rgba(86, 86, 86, 0.3);
+	width: auto;
+}
+
+.no_deco{
+	text-decoration: none;
+	color: white;
+}
+
+.img{
+max-width: 30%;
+max-height: 30%;
+}
