@@ -7,9 +7,8 @@
 <category>software/instalación/ordenadores</category>
 <copyright>1º ASIR - LMSGI</copyright>
 <image>
-<url>https://estherostos.github.io/proyectofhw/viajes.jpg</url>
-<title>Viajes y más</title>
-<link>https://estherostos.github.io/proyectofhw</link>
+<title>software/instalación/ordenadores</title>
+<link>https://lsdavidiesmedinaazahara.github.io/apantallados/index.html</link>
 <width>30</width>
 <height>30</height>
 </image>
@@ -17,36 +16,60 @@
 <lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
 <!--  Noticias del canal  -->
 <item>
-<title>Software Ofimatico</title>
-<description></description>
-<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_ofimatico/s_ofimatico.html</link>
-<author>losada_aliesma20@iesmedinaazahara.es</author>
-<category>Ofimatico</category>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+    <title>Software Ofimatico</title>
+    <description>Articulo sobre como instalar Software Ofimatico</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_ofimatico/s_ofimatico.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Ofimatico</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 <item>
-<title>Software de Recuperación y Mantenimiento</title>
-<description></description>
-<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_rec_man/s_rec_man.html</link>
-<author>losada_aliesma20@iesmedinaazahara.es</author>
-<category>Recuperación y Mantenimiento</category>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+    <title>Software de Recuperación y Mantenimiento</title>
+    <description>Articulo sobre como instalar Software de Recuperación y Mantenimiento</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/s_rec_man/s_rec_man.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Recuperación y Mantenimiento</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 <item>
-<title>Software Antivirus</title>
-<description></description>
-<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/utilidades_seg/utilidades_seg.html</link>
-<author>losada_aliesma20@iesmedinaazahara.es</author>
-<category>Software Antivirus</category>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+    <title>Software Antivirus</title>
+    <description>Articulo sobre como instalar Software Antivirus</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/utilidades_seg/utilidades_seg.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Software Antivirus</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 <item>
-<title>Aplicaciones Portables</title>
-<description>En este artículo encontrará información sobre París</description>
-<link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/a_portables/a_portables.html</link>
-<author>losada_aliesma20@iesmedinaazahara.es</author>
-<category>Portables</category>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+    <title>Aplicaciones Portables</title>
+    <description>Articulo sobre como instalar Aplicaciones Portables</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/a_portables/a_portables.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Portables</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+<item>
+    <title>Curiosidades</title>
+    <description>Articulo sobre paguinas webs curiosas</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/curioso/curioso.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Portables</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+<item>
+    <title>Clonecilla</title>
+    <description>Software de creacioón de imagenes del sistema</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/clonecilla/clone.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Portables</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+<item>
+    <title>Ventoy</title>
+    <description>Articulo sobre ventoy</description>
+    <link>https://lsdavidiesmedinaazahara.github.io/apantallados/Instalación_de_Programas/ventoy/ventoy.html</link>
+    <author>losada_aliesma20@iesmedinaazahara.es</author>
+    <category>Booting</category>
+    <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
